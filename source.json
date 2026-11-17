@@ -3,5 +3,27 @@
   "identifier": "com.marzvoid.source",
   "sourceURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/source.json",
   "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
-  "apps": []
+  "apps": [
+    {
+      "name": "Dark Oak",
+      "bundleIdentifier": "com.darkoak.recipes.mobile",
+      "developerName": "MarzVoid",
+      "localizedDescription": "Dark Oak",
+      "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-17T18:38:13.553298+00:00",
+          "downloadURL": "https://github.com/MarzVoid/MarzipanSource/releases/download/untagged-e04ed1df23b9db2fc20c/bae7ae6e447f-da0bb028ac7b.ipa",
+          "size": 13633877,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-17T18:38:13.553298+00:00",
+      "downloadURL": "https://github.com/MarzVoid/MarzipanSource/releases/download/untagged-e04ed1df23b9db2fc20c/bae7ae6e447f-da0bb028ac7b.ipa",
+      "size": 13633877
+    }
+  ]
 }
