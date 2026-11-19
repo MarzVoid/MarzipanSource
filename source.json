@@ -32,6 +32,27 @@
       "versionDate": "2026-11-17T19:10:26.634421+00:00",
       "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/bae7ae6e447f-d0b2e035120b.ipa",
       "size": 13633885
+    },
+    {
+      "name": "Elysium",
+      "bundleIdentifier": "com.marzipanbank.app",
+      "developerName": "MarzVoid",
+      "localizedDescription": "Elysium",
+      "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
+      "versions": [
+        {
+          "version": "0.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-19T10:07:13.113458+00:00",
+          "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-27fd8a1e4cca.ipa",
+          "size": 16551438,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "version": "0.0.0",
+      "versionDate": "2026-11-19T10:07:13.113458+00:00",
+      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-27fd8a1e4cca.ipa",
+      "size": 16551438
     }
   ]
 }
