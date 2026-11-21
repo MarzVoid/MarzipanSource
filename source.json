@@ -41,6 +41,14 @@
       "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
       "versions": [
         {
+          "version": "0.0.7",
+          "buildVersion": "1",
+          "date": "2026-11-21T14:29:24.241285+00:00",
+          "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-be5315e99ecc.ipa",
+          "size": 11548636,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.0.6",
           "buildVersion": "1",
           "date": "2026-11-21T13:14:59.000260+00:00",
@@ -97,10 +105,10 @@
           "minOSVersion": "16.4"
         }
       ],
-      "version": "0.0.6",
-      "versionDate": "2026-11-21T13:14:59.000260+00:00",
-      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-71f1c8f3cf5b.ipa",
-      "size": 9185539
+      "version": "0.0.7",
+      "versionDate": "2026-11-21T14:29:24.241285+00:00",
+      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-be5315e99ecc.ipa",
+      "size": 11548636
     }
   ]
 }
