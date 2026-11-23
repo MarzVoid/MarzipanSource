@@ -133,6 +133,27 @@
       "versionDate": "2026-11-21T14:29:24.241285+00:00",
       "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-be5315e99ecc.ipa",
       "size": 11548636
+    },
+    {
+      "name": "Melancholy",
+      "bundleIdentifier": "com.ghast.melancholy",
+      "developerName": "MarzVoid",
+      "localizedDescription": "Melancholy",
+      "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-23T12:25:22.450696+00:00",
+          "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/726ce02e6337-5b298ea4e1bc.ipa",
+          "size": 7969030,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-11-23T12:25:22.450696+00:00",
+      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/726ce02e6337-5b298ea4e1bc.ipa",
+      "size": 7969030
     }
   ]
 }
