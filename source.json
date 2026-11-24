@@ -12,6 +12,14 @@
       "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
       "versions": [
         {
+          "version": "1.0.6",
+          "buildVersion": "1",
+          "date": "2026-11-24T08:22:26.659199+00:00",
+          "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/bae7ae6e447f-06416cb199ed.ipa",
+          "size": 13644579,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.0.5",
           "buildVersion": "1",
           "date": "2026-11-22T18:49:58.911125+00:00",
@@ -52,10 +60,10 @@
           "minOSVersion": "16.4"
         }
       ],
-      "version": "1.0.5",
-      "versionDate": "2026-11-22T18:49:58.911125+00:00",
-      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/bae7ae6e447f-cf71846ef006.ipa",
-      "size": 13644584
+      "version": "1.0.6",
+      "versionDate": "2026-11-24T08:22:26.659199+00:00",
+      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/bae7ae6e447f-06416cb199ed.ipa",
+      "size": 13644579
     },
     {
       "name": "Elysium",
