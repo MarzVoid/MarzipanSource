@@ -73,6 +73,14 @@
       "iconURL": "https://avatars.githubusercontent.com/u/345469679?v=4",
       "versions": [
         {
+          "version": "0.0.9",
+          "buildVersion": "1",
+          "date": "2026-11-25T11:32:10.599531+00:00",
+          "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-d1642bfdcea1.ipa",
+          "size": 14601872,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.0.8",
           "buildVersion": "1",
           "date": "2026-11-25T09:44:12.467595+00:00",
@@ -145,10 +153,10 @@
           "minOSVersion": "16.4"
         }
       ],
-      "version": "0.0.8",
-      "versionDate": "2026-11-25T09:44:12.467595+00:00",
-      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-054fe2955bd3.ipa",
-      "size": 14601511
+      "version": "0.0.9",
+      "versionDate": "2026-11-25T11:32:10.599531+00:00",
+      "downloadURL": "https://raw.githubusercontent.com/MarzVoid/MarzipanSource/main/ipa/32fa12b1f360-d1642bfdcea1.ipa",
+      "size": 14601872
     },
     {
       "name": "Melancholy",
